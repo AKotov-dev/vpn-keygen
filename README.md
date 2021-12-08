@@ -1,2 +1,2 @@
-# openvpn-keygen
-Generator of combined client and server keys OpenVPN
+# openvpn-keygen & wireguard-key-gen
+Generator of combined client and server keys for OpenVPN and WireGuard
